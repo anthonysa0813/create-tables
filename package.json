@@ -1,0 +1,20 @@
+{
+  "name": "practices-exercises",
+  "version": "0.0.1",
+  "description": "this is an app about multiply  tables ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "anthony sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.7",
+    "yargs": "^17.0.1"
+  }
+}
